@@ -1,0 +1,8 @@
+/* DONE REVIEWING: GITHUB COMMIT */
+/* IF: You do not want to use Tailwind */
+/* DELETE: Every @tailwind rule */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
